@@ -1,0 +1,8 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.botao-atualizar {
+    background-color: #9d4edd !important;
+    color: white !important;
+}
